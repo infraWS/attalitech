@@ -49,7 +49,7 @@ defaults:
       footer-extra: custom_footer.html
       nav-short: true
       share-description: "DevOps house"
-      share-img: "/assets/img/logo-square.png"
+      share-img: "/assets/img/logo-square.jpg"
 
 exclude:
   - CNAME
