@@ -1,5 +1,6 @@
 ---
 title: "Payment Options"
+permalink: /payments/
 share-title: AttaliTech | Payment Options
 ---
 

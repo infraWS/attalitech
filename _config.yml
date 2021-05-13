@@ -1,8 +1,8 @@
 remote_theme: daattali/beautiful-jekyll
 
-title: AttaliTech
+title: infraWS
 
-author: AttaliTech Ltd
+author: infraWS PC
 
 navbar-links:
   Services: "/#services"
@@ -11,11 +11,11 @@ navbar-links:
   Open-Source: "/#portfolio"
   Contact Us: "/contact"
 
-title-img: /assets/img/attalitech-logo-light.png
+title-img: /assets/img/logo.png
 
-site-css: "/assets/css/attalitech.css"
+site-css: "/assets/css/infraws.css"
 
-keywords: "r shiny,shiny developer,shiny consultant,r consultant,shiny apps"
+keywords: "devops, DevOps, terraform, amazon web services, azure, cloud computing, aws, consultunt, developers, operations"
 
 mobile-theme-col: "#0085A1"
 navbar-col: "#05172d"
@@ -23,20 +23,17 @@ navbar-text-col: "#fff"
 navbar-border-col: "#05172d"
 
 social-network-links:
-  email: "info@attalitech.com"
-  github: daattali
-  twitter: daattali
-  calendly: "attalitech/meeting"
-  youtube: "c/daattali?sub_confirmation=1"
-  patreon: DeanAttali
+  email: "info@infra.ws"
+  github: infraws
+  twitter: infraws
 
-url-pretty: "AttaliTech.com"
+url-pretty: "infra.ws"
 
 footer-img: "/assets/img/footer-bg.png"
 
-google_analytics: "UA-59820529-1"
+google_analytics: ""
 
-timezone: "America/Toronto"
+timezone: "Europe/Athens"
 markdown: kramdown
 highlighter: rouge
 
@@ -51,8 +48,8 @@ defaults:
       layout: "page"
       footer-extra: custom_footer.html
       nav-short: true
-      share-description: "AttaliTech provides world-class R/Shiny consulting. Services include building professional Shiny apps, auditing Shiny code, package building, mentoring and training. Led by renowned expert Dean Attali."
-      share-img: "/assets/img/attalitech.png"
+      share-description: "DevOps house"
+      share-img: "/assets/img/logo-square.png"
 
 exclude:
   - CNAME

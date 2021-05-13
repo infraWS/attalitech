@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "AttaliTech | Expert R-Shiny Consulting"
+title: "infraWS | The DevOps Powerhouse"
 css:
   - /assets/css/index.css
 ext-css:
@@ -15,11 +15,11 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# AttaliTech {#title}
+# infraWS {#title}
 
-## R-Shiny Consulting {#subtitle}
+## DevOps powerhouse {#subtitle}
 
-#### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) {#sub-subtitle}
+#### We are team of talented devops engineers that can help you forget about scaling, infrastructure, continuous delivery & integration and focus on your products {#sub-subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
