@@ -154,29 +154,29 @@ footer {
   }
 }
 
-#aboutme-section {
+#grow-section {
   text-align: left;
   max-width: 56.875rem;
   margin: 0 auto;
   font-size: 1.3125rem;
 }
-#aboutme-list {
+#grow-list {
   margin-top: 2rem;
 }
-.about-text {
+.grow-text {
   position : relative;
   padding: 0 0.3125rem;
   line-height: 1.5;
   margin: 1rem 0;
 }
-.about-text strong {
+.grow-text strong {
   font-weight: 600;
 }
-.about-text .about-icon {
+.grow-text .page-icon {
   position: absolute;
   top: 0.3125rem;
 }
-.about-text .about-content {
+.grow-text .grow-content {
   padding-left: 1.875rem;
   display: inline-block;
 }
@@ -205,11 +205,10 @@ footer {
 @media only screen and (max-width: 650px) {
   .page-section .section-title {
     font-size: 2.75rem;
+    padding: 2rem;
     margin-bottom: 3rem;
   }
-  #clients-subtitle {
-    margin-top: -2.5rem;
-  }
+  #clients-subtitle {}
 }
 
 #services {
@@ -304,7 +303,7 @@ footer {
 }
 #cta-out {
   margin: 0 auto;
-  background: url(/assets/img/buildings.jpg);
+  background: url(/assets/img/footer2.jpg);
   background-size: cover;
   background-position: 0 50%;
   color: #fff;
@@ -313,7 +312,6 @@ footer {
 }
 #clients-subtitle {
   font-size: 1.8rem;
-  margin: -2.5rem 0 1.875rem;
   line-height: 1.3;
 }
 #client-logos {
@@ -406,4 +404,26 @@ footer {
     margin: 1.75rem auto;
     max-width: 100%;
   }
+}
+
+/*--------------------------------------------------------------
+# Counts
+--------------------------------------------------------------*/
+.counts {
+  padding-top: 0;
+}
+
+.counts .counters span {
+  font-size: 48px;
+  display: block;
+  color: #fed137;
+  font-weight: 700;
+}
+
+.counts .counters p {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
 }

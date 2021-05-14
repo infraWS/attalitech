@@ -1,5 +1,5 @@
-/*
-$(function() {
+
+$(function () {
   particlesJS('particles-js',
     {
       "particles": {
@@ -7,20 +7,20 @@ $(function() {
           "value": 80,
           "density": {
             "enable": true,
-            "value_area": 1500
+            "value_area": 561.194221302933
           }
         },
         "color": {
-          "value": "#eee"
+          "value": "#ffffff"
         },
         "shape": {
           "type": "circle",
           "stroke": {
             "width": 0,
-            "color": "#eee"
+            "color": "#000000"
           },
           "polygon": {
-            "nb_sides": 3
+            "nb_sides": 5
           },
           "image": {
             "src": "img/github.svg",
@@ -29,7 +29,7 @@ $(function() {
           }
         },
         "opacity": {
-          "value": 0.2,
+          "value": 0.5,
           "random": false,
           "anim": {
             "enable": false,
@@ -39,7 +39,7 @@ $(function() {
           }
         },
         "size": {
-          "value": 4,
+          "value": 1.5,
           "random": true,
           "anim": {
             "enable": false,
@@ -51,20 +51,20 @@ $(function() {
         "line_linked": {
           "enable": true,
           "distance": 150,
-          "color": "#eee",
+          "color": "#ffffff",
           "opacity": 0.4,
           "width": 1
         },
         "move": {
           "enable": true,
-          "speed": 2,
+          "speed": 6,
           "direction": "none",
-          "random": false,
+          "random": true,
           "straight": false,
           "out_mode": "out",
           "bounce": false,
           "attract": {
-            "enable": true,
+            "enable": false,
             "rotateX": 600,
             "rotateY": 1200
           }
@@ -85,7 +85,7 @@ $(function() {
         },
         "modes": {
           "grab": {
-            "distance": 200,
+            "distance": 400,
             "line_linked": {
               "opacity": 1
             }
@@ -112,7 +112,6 @@ $(function() {
       "retina_detect": true
     }
   );
-  
-  setTimeout(function(){ window.dispatchEvent(new Event('resize')); }, 1000);
+
+  setTimeout(function () { window.dispatchEvent(new Event('resize')); }, 1000);
 });
-*/

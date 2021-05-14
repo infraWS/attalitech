@@ -6,9 +6,9 @@ author: infraWS PC
 
 navbar-links:
   Services: "/#services"
+  Grow with us: "/#grow-section"
   About Us: "/#aboutus"
   Clients: "/#clients"
-  Open-Source: "/#portfolio"
   Contact Us: "/contact"
 
 title-img: /assets/img/logo.png
@@ -24,7 +24,6 @@ navbar-border-col: "#05172d"
 
 social-network-links:
   email: "info@infra.ws"
-  github: infraws
   twitter: infraws
 
 url-pretty: "infra.ws"
@@ -57,10 +56,9 @@ exclude:
   - Gemfile.lock
   - README.md
 
+include:
+  - _pages
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189

@@ -2,15 +2,13 @@
 layout: page
 permalink: /contact/
 title: Contact Us
-share-title: AttaliTech | Contact Us
+share-title: infra.ws | Contact Us
 ---
 
-For any R/Shiny consulting inquiries, please email [info@attalitech.com](mailto:info@attalitech.com?subject=Shiny consulting inquiry)
-
-Note that before any work can be performed, a (virtual) meeting is usually held to gather requirements and discuss your needs.
+For any inquiries, please email [info@infra.ws](mailto:info@infra.ws?subject=DevOps inquiry)
 
 <div style="text-align: center;">
-<a href="https://calendly.com/attalitech/meeting" class="schedule-btn actionbtn">
+<a href="https://calendly.com/nmargaritis/30min" class="schedule-btn actionbtn">
   <span class="far fa-calendar-check" aria-hidden="true"></span>
   Schedule Meeting
 </a>
@@ -18,7 +16,7 @@ Note that before any work can be performed, a (virtual) meeting is usually held 
 
 You can also send us a message using this form:
 
-<form action="https://formspree.io/dean@attalitech.com" method="POST" class="form" id="contact-form">
+<form action="https://formspree.io/f/mnqlpdla" method="POST" class="form" id="contact-form">
   <div class="row">
     <div class="col-6">
       <input type="email" name="_replyto" required="required" class="form-control input-lg" placeholder="Email" title="Email" style="margin-bottom: 15px;">
@@ -27,14 +25,14 @@ You can also send us a message using this form:
       <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name" style="margin-bottom: 15px;">
     </div>
   </div>
-  <input type="hidden" name="_subject" value="New submission from attalitech.com">
+  <input type="hidden" name="_subject" value="New submission from infra.ws">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
 
   <div style="margin-top: 5px; display: flex; margin-bottom: 15px; font-size: 0.7rem;">
-    <input type="checkbox" id="formspree-subscribe" name="formspree-subscribe" value="agree" checked style="margin-top: 2px; margin-right: 4px;" />
-    <label for="formspree-subscribe">Sign up to Shiny newsletter (unsubscribe at any time)</label>
+    <input type="checkbox" id="formspree-subscribe" name="formspree-subscribe" value="agree" style="margin-top: 2px; margin-right: 4px;" />
+    <label for="formspree-subscribe">Sign up to infra.ws newsletter (unsubscribe at any time)</label>
   </div>
 
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
