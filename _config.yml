@@ -5,11 +5,9 @@ title: infraWS
 author: infraWS PC
 
 navbar-links:
-  Services: "/#services"
-  Grow with us: "/#grow-section"
-  About Us: "/#aboutus"
-  Clients: "/#clients"
-  Contact Us: "/contact"
+  Who We are: "/#aboutus"
+  How we help: "/#services"
+  Talk to us: "/#contact"
 
 title-img: /assets/img/logo.png
 

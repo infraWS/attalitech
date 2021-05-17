@@ -1,44 +1,59 @@
 ---
 layout: base
-title: "infra.ws | The DevOps Powerhouse"
+title: "infraWS | The DevOps Powerhouse"
 css:
   - /assets/css/index.css
 ext-css:
   - //fonts.googleapis.com/css?family=Roboto:400,700
 js:
-  - /assets/js/index.js
+  # - /assets/js/index.js
 ext-js:
-  - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
-  - //cdn.jsdelivr.net/npm/@srexi/purecounter.js/dist/purecounter_vanilla.js
+  # - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
+  # - //cdn.jsdelivr.net/npm/@srexi/purecounter.js/dist/purecounter_vanilla.js
 ---
 
 <div id="header" class="cut1" markdown="1">
 
 <div id="header-inner" markdown="1">
 
-# infra.ws {#title}
+# You build the software. {#title}
 
-## Your cloud gateway {#subtitle}
+## We take care of your cloud infrastructure. {#subtitle}
 
-##### We are a team of talented devops engineers that can help you forget about scaling, infrastructure, continuous delivery & integration and focus on your products {#sub-subtitle}
+#### A DevOps powerhouse at your immediate service. {#sub-subtitle}
 
-<a href="/contact" class="actionbtn">
-  <span class="far fa-envelope" aria-hidden="true"></span>
-  Contact us
+<a href="/#contact" class="actionbtn">
+  TALK TO US
 </a>
 {: .actionbtn-out :}
 
 </div>
 
-<div id="particles-js"></div>
+<!-- <div id="particles-js"></div> -->
 
 </div>
 
 <div id="main-sections">
 
+<div class="cut-buffer aboutus-buffer"></div>
+
+<div id="aboutus-out" class="page-section grey-section cut2">
+  <div id="aboutus">
+    <div class="section-title">WHO WE ARE</div>
+    <div id="aboutus-text">
+      <p>We are a DevOps powerhouse of elite cloud architects, DevOps/SRE engineers, software engineers, and ex-CTOs. We've addressed countless times challeges around cloud infrastructure, DevOps, SRE, and SaaS architecture across the Software Development Lifecycle, while building several software as a service products for our own and other companies. Each of us is top of our field and as a team we bring an impact to your engineering organization beyond the ordinary. </p>
+      <p>At infraWS, we care about making your infrastructure equally good with your products and doing things right. We work as a member of your in-house team together with your engineers to address your challenges across the Software Development Lifecycle. We usually focus on all your DevOps needs, while adhering to the highest standards and implementing the best practices. We solve any problem as if it was our own, never compromising quality and security. </p>
+      <p>We provide top quality DevOps services trusted by over 20 organizations worldwide. Our customers enjoy peace of mind knowing they trust infraWS with their DevOps needs. We focus on more than just delivering solutions. We do this craft because it is our passion. We are here to change your game.</p>
+      <br/><br/><b>We are certain of it.</b>
+    </div>
+  </div>
+</div>
+
+
+
 <div id="services-out" class="page-section cut1">
   <div id="services">
-    <div class="section-title">What We Offer</div>
+    <div class="section-title">HOW WE HELP</div>
     <div id="services-list">
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
@@ -61,8 +76,8 @@ ext-js:
       </div>
   </div>
 </div>
-
-<div id="portfolio-out" class="page-section grey-section">
+<div class="cut-buffer values-buffer"></div>
+<div id="values-out" class="page-section cut2">
   <div id="portfolio">
     <div id="shinyapps-big">
       {% for item in site.data.services_overview %}
@@ -93,74 +108,40 @@ ext-js:
   </div>
 </div>
 
-<div class="cut-buffer aboutus-buffer"></div>
 
-<div id="aboutus-out" class="page-section grey-section cut2">
-  <div id="aboutus">
-    <div class="section-title">About Us</div>
-    <div id="aboutus-text">
-      Infra.ws was launched in 2017 as DevOps house. The goal was simple: address any and all of your DevOps needs, while adhering to the <b>highest standards</b>. Today, Infra.ws is a <b>DevOps powerhouse</b>, that incorporates 15 high caliber DevOps architects and domain experts. Infra.ws provides top quality DevOps services and is trusted by over 20 companies worldwide. We are here to change your game.<br/><br/><b>We are certain of it.</b>
-    </div>
-  </div>
-</div>
-
+<!-- 
 <div class="cut-buffer values-buffer"></div>
 
 <div id="values-out" class="page-section cut2">
   <div id="values">
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
-      At infra.ws, we care about making your infrastructure equally good with your products and doing things <b>right</b>.<br/><br/>We address any problem as if it was our own, <b>never </b>compromising quality and security. We focus on more than just delivering solutions. We are always looking for ways to add more <b>value</b> to our clients. Our clients enjoy peace of mind knowing they can trust us with their DevOps needs.
+      At infraWS, we care about making your infrastructure equally good with your products and doing things <b>right</b>.<br/><br/>We address any problem as if it was our own, <b>never </b>compromising quality and security. We focus on more than just delivering solutions. We are always looking for ways to add more <b>value</b> to our clients. Our clients enjoy peace of mind knowing they can trust us with their DevOps needs.
     </div>
   </div>
-</div>
+</div> -->
 
-<div id="clients-out" class="page-section cut1">
-  <div id="clients">
-    <div class="section-title">Clients</div>
-     <section id="counts" class="counts">
+<div id="contact-out" class="page-section cut1">
+  <div id="contact">
+    <div class="section-title">TALK TO US</div>
         <div class="container">
-          <div class="row counters">
-            <div class="col-lg-3 col-6 text-center">
-              <span data-purecounter-start="0" data-purecounter-end="23" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Unique Clients</p>
-            </div>
-            <div class="col-lg-3 col-6 text-center">
-              <span data-purecounter-start="0" data-purecounter-end="533" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Cloud Migrated Services</p>
-            </div>
-            <div class="col-lg-3 col-6 text-center">
-              <span data-purecounter-start="0" data-purecounter-end="98" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Pipeline Automations</p>
-            </div>
-            <div class="col-lg-3 col-6 text-center">
-              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hard Workers</p>
-            </div>
+          <div>
+            We're here to chat about your cloud infrastructure challenges and how we can help you. Send us a brief message and we will get back to you within 24h, or schedule a brief introductory meeting to discuss your challenges.   
+          </div>
+          <div style="text-align: center;">    
+            <a href="mailto:hello@infra.ws?subject=DevOps inquiry" class="schedule-btn actionbtn">
+              <span class="far fa-envelope" aria-hidden="true"></span>
+              hello@infra.ws
+            </a>
+             <a href="https://calendly.com/nmargaritis/30min" class="schedule-btn actionbtn">
+              <span class="far fa-calendar-check" aria-hidden="true"></span>
+              Meet with us
+            </a>
           </div>
         </div>
-    </section>
-    <div id="clients-subtitle">Clients range from startups to betting industry platforms to Fortune 1000 companies</div>
-    <div id="client-logos">
-      {% for client in site.data.clients %}
-        <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
-          <img alt="{{ client.name }}" src="/assets/img/logos/{{ client.img }}" />
-        </a>
-      {% endfor %}
-    </div>
+
+
   </div>
-  
-</div>
-
-<div id="cta-out" class="page-section">
-  <div id="cta">
-    <div class="section-title">Take Your Apps to the Highest Cloud</div><br/>
-  </div>
-  <a href="/contact" class="actionbtn">
-    <span class="far fa-envelope" aria-hidden="true"></span>
-    Contact Us
-  </a>
 </div>
 
 </div>
-
