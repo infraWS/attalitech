@@ -20,7 +20,7 @@ ext-js:
 
 ## We take care of your cloud infrastructure. {#subtitle}
 
-#### A DevOps powerhouse at your immediate service. {#sub-subtitle}
+#### A DevOps powerhouse at the immediate service of your team. {#sub-subtitle}
 
 <a href="/#contact" class="actionbtn">
   TALK TO US
@@ -41,7 +41,7 @@ ext-js:
   <div id="aboutus">
     <div class="section-title">WHO WE ARE</div>
     <div id="aboutus-text">
-      <p>We are a DevOps powerhouse of elite cloud architects, DevOps/SRE engineers, software engineers, and ex-CTOs. We've addressed countless times challeges around cloud infrastructure, DevOps, SRE, and SaaS architecture across the Software Development Lifecycle, while building several software as a service products for our own and other companies. Each of us is top of our field and as a team we bring an impact to your engineering organization beyond the ordinary. </p>
+      <p>We are a DevOps powerhouse of elite cloud architects, DevOps/SRE engineers, software engineers, and ex-CTOs. We've addressed countless times the challeges around cloud infrastructure, DevOps, SRE, and SaaS architecture across the Software Development Lifecycle, while building several software as a service products for our own and other companies. Each of us is top of our field and as a team we bring an impact to your engineering organization beyond your current capacity. </p>
       <p>At infraWS, we care about making your infrastructure equally good with your products and doing things right. We work as a member of your in-house team together with your engineers to address your challenges across the Software Development Lifecycle. We usually focus on all your DevOps needs, while adhering to the highest standards and implementing the best practices. We solve any problem as if it was our own, never compromising quality and security. </p>
       <p>We provide top quality DevOps services trusted by over 20 organizations worldwide. Our customers enjoy peace of mind knowing they trust infraWS with their DevOps needs. We focus on more than just delivering solutions. We do this craft because it is our passion. We are here to change your game.</p>
       <br/><br/><b>We are certain of it.</b>
