@@ -195,7 +195,7 @@ footer {
 }
 
 .page-section .section-title {
-  font-size: 5rem;
+  font-size: 2.75rem;
   line-height: 1.3;
   text-align: center;
   font-weight: bold;
@@ -204,7 +204,7 @@ footer {
 
 @media only screen and (max-width: 650px) {
   .page-section .section-title {
-    font-size: 2.75rem;
+    font-size: 1.375rem;
     padding: 2rem;
     margin-bottom: 3rem;
   }
