@@ -1,18 +1,82 @@
 - img:
-  title: Build Configuration and Automation
-  description: 
+  title: Delivery
+  description:
+  services:
+    - title: Continuous integration 
+    - title: Continuous testing
+    - title: Continuous delivery
+    - title: Continuous deployment
+    - title: Release management
+    - title: Developer tools & workflows
+    - title: Build configuration and automation
+    - title: Git branching workflows
 - img:
-  title: Continuous Integration and Deployment
+  title: Management
   description: 
+  services:
+    - title: Infrastructure as a code
+    - title: Configuration management
+    - title: Containerization (Docker)
+    - title: Container orchestration (kubernetes)
+    - title: Database administration
 - img:
-  title: Infrastructure as a code
-  description: 
+  title: Architecture
+  description:
+  services:
+    - title: High availability
+    - title: Failover strategies
+    - title: Scalability patterns
+    - title: Microservices
+    - title: Caching
+    - title: APIs
+    - title: Serveless
 - img:
-  title: Release Management
+  title: Observability
   description: 
+  services:
+    - title: Logging
+    - title: Metrics
+    - title: Distributed tracing
+    - title: SLAs/SLOs/SLIs
+    - title: Application performance monitoring
 - img:
-  title: Monitoring & Back-up
+  title: Security
   description: 
+  services:
+    - title: Identity & Access Management
+    - title: Boost your security by Security By Design
+    - title: ISO 27001
+    - title: In-depth security audits
+    - title: Infrastructure hardening
+    - title: Application hardening
+    - title: Sandboxing sensitive systems
+    - title: Security-minded coding best practices
+    - title: Automated threat scanning
+    - title: Secrets management
 - img:
-  title: Scale at will
+  title: Optimization
   description: 
+  services:
+    - title: Cost optimization
+    - title: Performance optimization
+- img:
+  title: Networking
+  description: 
+  services:
+
+    - title: Virtual Private Networking
+    - title: Content delivery network
+    - title: Video Streams
+- img:
+  title: Business continuity
+  description: 
+  services:
+    - title: Backup & recovery strategies
+    - title: Multi Cloud deployments
+    - title: Hybrid Cloud deployments
+- img:
+  title: Migrations
+  description: 
+  services:
+    - title: Bare metal to cloud
+    - title: Between cloud providers
