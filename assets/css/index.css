@@ -41,6 +41,7 @@ p a:hover{
 footer {
   border-top: 0;
   margin-top: 0;
+  background: #05172d;
 }
 
 #particles-js {
@@ -275,16 +276,23 @@ footer {
   padding: 0 1rem;
 }
 
-#aboutus-text,
-#values-text {
+.section-text {
   max-width: 1200px; 
   margin: 0 auto; 
   font-size: 1.5rem
 }
+
 @media only screen and (max-width: 750px) {
-  #aboutus-text,
-  #values-text {
-    font-size: 1.25rem;
+  .section-text { 
+    max-width: 550px; 
+    font-size: 1.25rem
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .section-text { 
+    max-width: 450px; 
+    font-size: 1.0rem
   }
 }
 
@@ -347,6 +355,11 @@ footer {
   background-image: url(/assets/img/maze-bg.png);
 }
 
+#shinyapps-big {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 #shinyapps-big .shinyapp {
   display: inline-block;
   vertical-align: top;
@@ -404,6 +417,11 @@ footer {
     margin: 1.75rem auto;
     max-width: 100%;
   }
+}
+
+#contact-out {
+  background: #05172d;
+  height: 100%
 }
 
 /*--------------------------------------------------------------

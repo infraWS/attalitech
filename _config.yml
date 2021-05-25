@@ -2,11 +2,11 @@ remote_theme: daattali/beautiful-jekyll
 
 title: infraWS
 
-author: infraWS PC
+author: infraWS P.C.
 
 navbar-links:
   Who We are: "/#aboutus"
-  How we help: "/#services"
+  What We Do: "/#services"
   Talk to us: "/#contact"
 
 title-img: /assets/img/logo.png
