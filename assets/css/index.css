@@ -272,8 +272,10 @@ footer {
   background-image: url(/assets/img/back-bg.png);
 }
 #aboutus, 
-#values {
-  padding: 0 1rem;
+#values,
+#services {
+  padding: 0 1.5rem;
+  text-align: justify;
 }
 
 .section-text {
