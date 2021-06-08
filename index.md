@@ -41,8 +41,8 @@ ext-js:
   <div id="aboutus">
     <div class="section-title">WHO WE ARE</div>
     <div class="section-text">
-      <p>We are a DevOps powerhouse of elite cloud architects, DevOps/SRE engineers, software engineers, and ex-CTOs. We've addressed countless times the challeges around cloud infrastructure, DevOps, SRE, and SaaS architecture across the Software Development Lifecycle, while building several software as a service products for our own and other companies. Each of us is top of our field and as a team we bring an impact to your engineering organization beyond your current capacity. We focus on more than just delivering ordinary solutions. We do this craft because it is our passion.</p>
-      <br /><br /><b>We are here to change your game. </b>
+      <p>We are a DevOps powerhouse of elite cloud architects, DevOps/SRE engineers, software engineers, and ex-CTOs. We've addressed countless times the challeges around cloud infrastructure, DevOps, SRE, FinOps, PaaS and SaaS architecture across the Software Development Lifecycle, while building several software as a service products for our own and other companies. Each of us is top of our field and as a team we bring an impact to your engineering organization beyond your current capacity. We focus on more than just delivering ordinary solutions. We do this craft because it is our passion.</p>
+      <div id="about-statement">We are here to change your game. </div>
     </div>
   </div>
 </div>
