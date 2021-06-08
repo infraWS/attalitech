@@ -10,13 +10,18 @@
     - title: Release management
     - title: Developer tools & workflows
 - img:
-  title: Management
+  title: Security
   description: 
   services:
-    - title: Infrastructure as a code
-    - title: Configuration management
-    - title: Containerization
-    - title: Container orchestration
+    - title: Identity & access management
+    - title: Infrastructure hardening
+    - title: Application hardening
+    - title: Security by design
+    - title: Security-minded development
+    - title: Automated threat scanning
+    - title: Secrets management
+    - title: In-depth security audits
+    - title: ISO 27001
 - img:
   title: Architecture
   description:
@@ -40,24 +45,13 @@
     - title: SLAs/SLOs/SLIs
     - title: Metrics & dashboards
 - img:
-  title: Security
+  title: Management
   description: 
   services:
-    - title: Identity & access management
-    - title: Infrastructure hardening
-    - title: Application hardening
-    - title: Security by design
-    - title: Security-minded development
-    - title: Automated threat scanning
-    - title: Secrets management
-    - title: In-depth security audits
-    - title: ISO 27001
-- img:
-  title: Optimization
-  description: 
-  services:
-    - title: Cost optimization
-    - title: Performance optimization
+    - title: Infrastructure as a code
+    - title: Configuration management
+    - title: Containerization
+    - title: Container orchestration
 - img:
   title: Networking
   description: 
@@ -67,6 +61,12 @@
     - title: Virtual private networking
     - title: Corporate cloud networks
     - title: Video streams
+- img:
+  title: Optimization
+  description: 
+  services:
+    - title: Cost optimization
+    - title: Performance optimization
 - img:
   title: Business continuity
   description: 
