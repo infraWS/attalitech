@@ -80,7 +80,7 @@
   services:
     - title: Bare metal to cloud
     - title: Between cloud providers
-    - title: Legacy to cloud native
+    - title: Legacy to cloud-native
 - img:
   title: Data
   description: 

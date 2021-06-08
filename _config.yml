@@ -2,12 +2,12 @@ remote_theme: daattali/beautiful-jekyll
 
 title: infraWS
 
-author: infraWS P.C.
+author: Copyright INFRAWS P.C. All Rights Reserved
 
 navbar-links:
-  Who We are: "/#aboutus"
-  What We Do: "/#services"
-  Talk to us: "/#contact"
+  Who We are: "/#who-we-are"
+  What We Do: "/#what-we-do"
+  Talk to us: "/#talk-to-us"
 
 title-img: /assets/img/logo.png
 
@@ -21,14 +21,13 @@ navbar-text-col: "#fff"
 navbar-border-col: "#05172d"
 
 social-network-links:
-  email: "info@infra.ws"
   twitter: infraws
 
 url-pretty: "infra.ws"
 
 footer-img: "/assets/img/footer-bg.png"
 
-google_analytics: ""
+google_analytics: "275075400"
 
 timezone: "Europe/Athens"
 markdown: kramdown
@@ -45,7 +44,7 @@ defaults:
       layout: "page"
       footer-extra: custom_footer.html
       nav-short: true
-      share-description: "DevOps house"
+      share-description: "infra.ws | The DevOps powerhouse at the immediate service of your team"
       share-img: "/assets/img/logo-square.jpg"
 
 exclude:
