@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll
 
-title: infraWS
+title: infra.ws
 
 author: Copyright INFRAWS P.C. All Rights Reserved
 
@@ -13,7 +13,7 @@ title-img: /assets/img/logo.png
 
 site-css: "/assets/css/infraws.css"
 
-keywords: "devops, DevOps, terraform, amazon web services, azure, cloud computing, aws, consultunt, developers, operations"
+keywords: "devops, sre, terraform, amazon web services, azure, cloud computing, aws, experts, outsourcing, near-sourcing"
 
 mobile-theme-col: "#0085A1"
 navbar-col: "#05172d"
@@ -44,7 +44,7 @@ defaults:
       layout: "page"
       footer-extra: custom_footer.html
       nav-short: true
-      share-description: "infra.ws | The DevOps powerhouse at the immediate service of your team"
+      share-description: "infra.ws | The DevOps powerhouse"
       share-img: "/assets/img/logo-square.jpg"
 
 exclude:
