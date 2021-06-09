@@ -3,6 +3,7 @@ layout: page
 permalink: /corporate/gemh/
 title: Στοιχεία Εταιρείας / Corporate Details
 share-title: infra.ws | Corporate Details
+sitemap: false
 ---
 
 ΣΤΟΙΧΕΙΑ ΔΗΜΟΣΙΟΤΗΤΑΣ / PUBLIC COMPANY DATA
