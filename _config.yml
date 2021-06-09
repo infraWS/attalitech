@@ -28,7 +28,8 @@ url-pretty: "infra.ws"
 
 footer-img: "/assets/img/footer-bg.png"
 
-google_analytics: ""
+gtag: "G-4WQ5YN6V8F"
+# google_analytics: ""
 
 timezone: "Europe/Athens"
 markdown: kramdown
