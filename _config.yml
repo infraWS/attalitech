@@ -2,7 +2,7 @@ remote_theme: daattali/beautiful-jekyll
 
 title: infra.ws
 
-author: Copyright INFRAWS LIMITED All Rights Reserved
+author: Copyright INFRAWS LIMITED All Rights Reserved. <br /> VAT. CY 10430029B. Mitsis Building no 3,  Office No. 310, 1-7 Makarios Avenue, 1065 Nicosia, Cyprus
 
 navbar-links:
   Who We are: "/#who-we-are"
