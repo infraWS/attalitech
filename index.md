@@ -75,7 +75,7 @@ js:
   <div id="contact">
     <div class="section-title">TALK TO US</div>
     <div class="section-text">
-        We're here to help you with your DevOps & SaaS engineering challenges right away. Send us a brief message and <b>we will get back to you within 24 hours</b>.      
+        We are here to help you with your DevOps & SaaS engineering challenges right away. Send us a brief message and <b>we will get back to you within 24 hours</b>.      
     </div>
     <div style="text-align: center; padding-top: 20px;">    
       <a href="mailto:hello@infra.ws?subject=Hello" class="actionbtn">
